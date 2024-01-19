@@ -1,7 +1,5 @@
 
-# Hi there, I'm Gopikrishna 👋 and yes this profile was generated using ChatGPT 😜
-
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Gopikrishna 👋 
 
 I am a Project Associate at CDAC Bangalore, currently contributing to the National Supercomputing Mission group. 
 My focus is on developing a monitoring tool for supercomputers. Here's a glimpse of my expertise and current projects:
