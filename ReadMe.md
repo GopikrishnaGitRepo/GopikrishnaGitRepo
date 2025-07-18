@@ -34,4 +34,4 @@ My focus is on developing a monitoring tool for supercomputers. Here's a glimpse
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/gopikrishna-rema-ajaykumar-hpc
+- LinkedIn: https://www.linkedin.com/in/gopi-hpc/
